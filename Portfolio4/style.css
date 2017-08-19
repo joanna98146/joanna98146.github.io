@@ -1,0 +1,169 @@
+body{
+font-family: 'Lemonada', cursive;
+margin: 0;
+	 }
+
+ 
+ h1 {
+color: black;
+font-size:50px;
+font-weight: normal;
+margin-bottom: 0;
+margin-top: 1px; 
+ }
+
+
+ h2{color:black;
+ 	font-size: 18px;
+ 	margin-top: 0;
+ 	 }
+
+
+.about-container {
+background: URL('bg.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 600px;
+}
+
+ 
+
+ .bio {
+	color:black;
+	font-weight: bold;
+	font-size: 14px;
+	margin-top: 1px;
+
+ }
+
+ .me {
+ 	height: 150px;
+ 	border-radius: 100%; 
+ 	border-style: solid;
+ 	border-color: black;
+ 	margin-top: 1px;
+
+ }
+
+ .about {
+ 	width: 400px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+	text-align: center;
+
+ }
+
+
+ .grey {
+
+ 	height: 3px;
+ 	background-color: #919191;
+ 	border: none;
+ 	width: 50px;
+ }
+
+ h3{
+
+text-align: center;
+font-size: 28px;
+font-weight: normal;
+margin-top: 40px;
+ }
+
+ .yellow {
+ 	border-top: 5px dotted #8c8b8b;
+ 	width: 250px;
+ 	border-bottom: none;
+ 	border-right: none;
+ }
+
+ .box {
+ 	float: left;
+ 	width: 42.5%;
+ 	margin-left: 5%;
+ 	margin-top: 80px; 
+ }
+
+ .clear {
+	clear: both;
+ }
+
+ h4 {
+ 	text-align: center;
+ 	font-size: 24px;
+ }
+
+ p {
+ 	text-align: center;
+ }
+
+ .full-width {
+ 	width: 100%;
+ }
+
+ .skills-and-tools {
+ 		max-width: 400px;
+ 		margin: 40px auto;
+ }
+
+ .icons {
+ 		text-align: center;
+ }
+
+ .icon {
+ 	margin: 30px 0;
+ }
+
+ .contact-me {
+ 	height: 350px;
+ 	background-color: #202020;
+ }
+
+ .contact-headline {
+ 	color: white;
+ 	padding-top: 30px;
+ }
+
+ .contact-info {
+ 	color: white;
+ 	font-size: 13px
+ 	margin-top: 30px;
+ }
+
+ .contact-link {
+ 	color: white;
+ 	font-weight: bold;
+ 	font-size: 13px;
+ }
+
+ .photo-credit {
+ 	text-align: center;
+ 	color: white;
+ 	font-weight: bold;
+ 	font-size: 13px;
+ }
+
+ .nav-link {
+ 	color: black;
+ 	text-decoration: none;
+ }
+
+ li {
+ 	display: inline-block;
+ 	font-size: 12px;
+ 	width: 100px;
+ 	font-weight: bold;
+ 	margin-top: 30px;
+ 	padding-top: 8px;
+ 	padding-bottom: 8px;
+ 	text-align: center;
+ 	margin-left: 30px;
+
+ }
+
+.hire-me{
+	border-style: solid;
+	border-color: black;
+}
